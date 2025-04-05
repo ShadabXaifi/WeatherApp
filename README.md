@@ -13,14 +13,6 @@ A simple and elegant Android Weather App built using Kotlin. It fetches real-tim
 
 ---
 
-## 📸 Screenshots
-
-  | Splash screen |
-
-    | ![Splash Screen](https://github.com/ShadabXaifi/weatherApp/blob/9024db146662424826492186f3a89619cceba8c7/Screenshot%202025-04-05%20111933.png?raw=true) |
-
----
-
 ## 🛠️ Built With
 
 - [Kotlin](https://kotlinlang.org/) - Programming Language

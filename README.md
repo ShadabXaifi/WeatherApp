@@ -17,7 +17,7 @@ A simple and elegant Android Weather App built using Kotlin. It fetches real-tim
 
   | Splash screen |
 
-    ![image alt](https://github.com/ShadabXaifi/weatherApp/blob/9024db146662424826492186f3a89619cceba8c7/Screenshot%202025-04-05%20111933.png?raw=true)
+    | ![Splash Screen](https://github.com/ShadabXaifi/weatherApp/blob/9024db146662424826492186f3a89619cceba8c7/Screenshot%202025-04-05%20111933.png?raw=true) |
 
 ---
 
